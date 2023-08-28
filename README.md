@@ -2,7 +2,7 @@
 **Task 1: Landing Page** 
 This project is the landing page made using HTML, CSS and a bit Javascript.
 **Link of the deployed project:** 
-https://landingpageoibsip.netlify.app/
+https://landingpageinternship.netlify.app/
 
 **Task 2: Personal Portfolio Website** 
 This is my personal portfolio website created using HTML and CSS.
